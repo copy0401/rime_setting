@@ -1,6 +1,0 @@
-# Rime user dictionary
-#@/db_name	greek
-#@/db_type	userdb
-#@/rime_version	1.7.1
-#@/tick	0
-#@/user_id	8c6bb01e-69e3-4ceb-bc04-6065c6577316

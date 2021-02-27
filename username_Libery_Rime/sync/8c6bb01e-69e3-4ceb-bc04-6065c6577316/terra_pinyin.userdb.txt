@@ -1,8 +1,0 @@
-# Rime user dictionary
-#@/db_name	terra_pinyin
-#@/db_type	userdb
-#@/rime_version	1.7.1
-#@/tick	2
-#@/user_id	8c6bb01e-69e3-4ceb-bc04-6065c6577316
-ce4 shi4 	測試	c=1 d=1 t=2
-she4 ding4 dang3 	設定檔	c=1 d=1 t=2
