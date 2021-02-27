@@ -1,0 +1,29 @@
+# Rime user dictionary
+#@/db_name	bopomo_onionplus
+#@/db_type	userdb
+#@/rime_version	1.7.1
+#@/tick	18
+#@/user_id	8c6bb01e-69e3-4ceb-bc04-6065c6577316
+bu4 zheng4 chang2 	不正常	c=0 d=0.0923116 t=18
+ce4 shi4 	測試	c=0 d=0.0918512 t=18
+ce4 shi4 kan4 kan4 	測試看看	c=1 d=0.923116 t=18
+chen2 jun4 	陳俊	c=1 d=0.955997 t=18
+cong1 	蔥	c=1 d=0.99005 t=18
+dou1 shi4 	都是	c=0 d=0.0923116 t=18
+fu2 wu4 zhong1 xin1 	服務中心	c=2 d=1.88355 t=18
+gao1 xiong2 	高雄	c=2 d=1.89299 t=18
+ji2 tuan2 	集團	c=1 d=0.965605 t=18
+kan4 kan4 	看看	c=0 d=0.0918512 t=18
+meng2 	莔	c=1 d=0.918512 t=18
+mi4 ma3 	密碼	c=1 d=1 t=18
+shi4 fou3 	是否	c=0 d=0.0923116 t=18
+shi4 fou3 dou1 shi4 | zheng4 chang2 | bu4 zheng4 chang2 	是否都是 正常 不正常	c=1 d=0.927743 t=18
+shu1 ru4 fa3 	輸入法	c=1 d=0.980199 t=18
+wu2 xia1 mi3 	嘸蝦米	c=1 d=0.995012 t=18
+xian4 shang4 	線上	c=1 d=0.932394 t=18
+xing2 zheng4 	行政	c=1 d=0.970446 t=18
+yang2 cong1 	洋蔥	c=1 d=0.985112 t=18
+yi4 	益	c=1 d=0.960789 t=18
+zheng4 chang2 	正常	c=0 d=0.0923116 t=18
+zhi2 xiao1 	直銷	c=1 d=0.97531 t=18
+| 	 	c=0 d=0.0923116 t=18

@@ -1,0 +1,11 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	5
+#@/user_id	8c6bb01e-69e3-4ceb-bc04-6065c6577316
+ba hai 	拔海	c=1 d=0.995012 t=5
+ba han 	巴漢	c=1 d=0.985112 t=5
+gan jue 	感覺	c=1 d=0.990049 t=5
+gui hua 	規劃	c=1 d=0.980199 t=5
+tai 	太	c=1 d=1 t=5
