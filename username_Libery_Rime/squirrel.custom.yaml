@@ -2,7 +2,7 @@
 # 用法：想要哪項生效，就刪去該行行首的「#」字符，但注意保留用於縮進的空格
 
 patch:
-  style/color_scheme: mac_cc2 #apathy #psionics #lost_temple
+  style/color_scheme: mac_cc #apathy #psionics #lost_temple
   # style/horizontal: true # 候選橫排
   style/inline_preedit: false #true # 非內嵌編碼行
   style/corner_radius: 4 # 窗口圓角半徑
