@@ -1,11 +1,13 @@
 var:
-  last_build_time: 1614434159
+  last_build_time: 1614440309
   option:
     simplification: false
-  previously_selected_schema: cangjie5
+  previously_selected_schema: easy_en_b
   schema_access_time:
     bopomo_onionplus: 1614425670
-    bopomo_onionplus_2: 1614433291
+    bopomo_onionplus_2: 1614434242
     bopomofo: 1614433543
     cangjie5: 1614433630
-    liur: 1614433285
+    easy_en_b: 1614440265
+    liur: 1614434208
+    terra_pinyin: 1614434234

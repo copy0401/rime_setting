@@ -15,8 +15,8 @@ patch:
     # - schema: greek #希臘
     # - schema: cyrillic #西里爾
     # - schema: allbpm #注音文
-    # - schema: easy_en_b #easy英文
-    # - schema: easy_en_comment #英翻中
+    - schema: easy_en_b #easy英文
+    - schema: easy_en_comment #英翻中
     # - schema: fullshape #全形
     # - schema: symbols_bpmf #系列符號
     - schema: cangjie5 #倉頡

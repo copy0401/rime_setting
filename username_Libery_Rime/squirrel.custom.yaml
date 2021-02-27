@@ -3,16 +3,16 @@
 
 patch:
   style/color_scheme: mac_cc #apathy #psionics #lost_temple
-  # style/horizontal: true      # 候選橫排
-  style/inline_preedit: false #true
-  style/corner_radius: 4 #10
+  # style/horizontal: true # 候選橫排
+  style/inline_preedit: false #true # 非內嵌編碼行
+  style/corner_radius: 4 # 窗口圓角半徑
   style/line_spacing: 1 #4 #6
   style/spacing: 5 #4 #10
   style/candidate_format: '%c. %@'
-  style/font_face: 'Times-Roman,PingFangTC-Light,AppleColorEmoji' #,HanaMinA,HanaMinB
-  style/font_point: 20 #21
+  style/font_face: 'Unifont-JPMedium,Unifont-Medium,SarasaMonoSCNerd-regular,SarasaMonoSCNerd-Light,Times-Roman,PingFangTC-Light,AppleColorEmoji' #,HanaMinA,HanaMinB
+  style/font_point: 20 # 候选字 大小
   style/label_font_face: 'Andale Mono'
-  style/label_font_point: 14 #12 #18
+  style/label_font_point: 16 # 候选编号 大小 
 
 ###################################################
 
